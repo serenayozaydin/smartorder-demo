@@ -110,7 +110,7 @@ export default function HomePage() {
       category: "🥐 Aperatifler", 
       desc: "Tereyağlı croissant", 
       emoji: "🥐",
-      image: "https://images.unsplash.com/photo-1555507036-ab794f4afe5d?w=300&h=200&fit=crop&auto=format"
+     image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=300&h=200&fit=crop&auto=format"
     },
     { 
       id: 12, 
